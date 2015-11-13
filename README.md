@@ -1,7 +1,7 @@
 Decktape Docker
 ===============
 
-A Docker image with Decktape for creating PDFs from browser-based
+A Docker image with [Decktape](https://github.com/astefanutti/decktape) for creating PDFs from browser-based
 presentations. 
 
 Usage:
